@@ -1,0 +1,29 @@
+[11:48:50] [User Authenticator #18/INFO]: UUID of player jrod454 is 8ee37ec2-545d-43e7-b5a8-a0d5a0db22b2
+[11:48:50] [Server thread/INFO]: jrod454[/127.0.0.1:63555] logged in with entity id 8869910 at (-1279.8752481901047, 70.0, -53.71571703897876)
+[11:48:50] [Server thread/INFO]: jrod454 joined the game
+[11:50:43] [Server thread/INFO]: jrod454 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[11:50:43] [Server thread/INFO]: jrod454 left the game
+[13:59:14] [User Authenticator #19/INFO]: UUID of player jrod454 is 8ee37ec2-545d-43e7-b5a8-a0d5a0db22b2
+[13:59:14] [Server thread/INFO]: jrod454 lost connection: TextComponent{text='Mod rejections [FMLMod:numina{0.4.1.103}, FMLMod:powersuits{@VERSION@}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:59:14] [Server thread/INFO]: jrod454 left the game
+[14:05:30] [Server thread/INFO]: Stopping the server
+[14:05:30] [Server thread/INFO]: Stopping server
+[14:05:30] [Server thread/INFO]: Saving players
+[14:05:30] [Server thread/INFO]: Saving worlds
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Soul Network Dimension
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Moon
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Mars
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Asteroids
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Dungeon
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Spirit World
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Torment
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Mirror
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/The Outer Lands
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Candy Dungeon
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Candy Valley
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Underdark
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Twilight Forest
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/Wyvern Lair
+[14:05:30] [Server thread/INFO]: Saving chunks for level 'world'/The Last Millenium
